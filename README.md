@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jerinpious321@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jerin-pious-59b331261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerin-pious-59b331261" height="30" width="40" /></a>
 <a href="https://instagram.com/___.jerry.__j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___.jerry.__j" height="30" width="40" /></a>
