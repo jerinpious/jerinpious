@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerinpious&label=Profile%20views&color=0e75b6&style=flat" alt="jerinpious" /> </p>
 
-- 🔭 I’m currently working on **Wavelet**
+- 🔭 I’m currently working on **Social Media API**
 
-- 🌱 I’m currently learning **SQL,React**
+- 🌱 I’m currently learning **MySQL,MongoDB**
 
 - 📫 How to reach me **jerinpious321@gmail.com**
 
